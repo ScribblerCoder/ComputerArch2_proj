@@ -1,1 +1,2 @@
-# ComputerArch2_proj
+# SHA256 PIPELINE
+
